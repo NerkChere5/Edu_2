@@ -8,7 +8,7 @@ export class Solver_test extends Solver {
     let answer = this._answer_reset_create(key);
     answer.value = {
       legacyAnswers: {
-        // answer: data,
+        answer: data,
         fails: {},
         success: Object.fromEntries(data.map((item) => [item, {}])),
       },
