@@ -21,7 +21,7 @@ export class Solver_drop extends Solver {
   
   
   static _answers_define() {
-    let elements = this._template.content.querySelectorAll('vim-dnd-image-drop, vim-dnd-text-drop');
+    let elements = this._template.content.querySelectorAll('vim-dnd-image-drop, vim-dnd-image-set-drop, vim-dnd-text-drop');
     let idSet = {};
     this._answers = [];
     this._answers_reset = [];
