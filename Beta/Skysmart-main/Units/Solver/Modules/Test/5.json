@@ -1,0 +1,139 @@
+[
+  {
+    "contentGroupId": "9615695-9",
+    "key": "KSA1",
+    "meta": {
+      "device": {
+        "environment": "web",
+        "type": "desktop"
+      },
+      "showAnswerStatus": false,
+      "stepUuid": "47afe365-6b3c-481b-a4dd-e7f056207a91"
+    },
+    "userId": 37557722,
+    "value": {
+      "answers": [
+        {
+          "createdAt": 1643292804612,
+          "value": {
+            "itemId": "KSA1_1",
+            "itemValue": "orange"
+          }
+        },
+        {
+          "createdAt": 1643292877476,
+          "value": {
+            "itemId": "KSA1_3",
+            "itemValue": "orange"
+          }
+        },
+        {
+          "createdAt": 1643292940886,
+          "value": {
+            "itemId": "KSA1_4",
+            "itemValue": "orange"
+          }
+        },
+        {
+          "createdAt": 1643292946624,
+          "value": {
+            "itemId": "KSA1_5",
+            "itemValue": "orange"
+          }
+        },
+        {
+          "createdAt": 1643292952954,
+          "value": {
+            "itemId": "KSA1_6",
+            "itemValue": "orange"
+          }
+        },
+        {
+          "createdAt": 1643292954452,
+          "value": {
+            "itemId": "KSA1_7",
+            "itemValue": "orange"
+          }
+        },
+        {
+          "createdAt": 1643292955464,
+          "value": {
+            "itemId": "KSA1_8",
+            "itemValue": "orange"
+          }
+        },
+        {
+          "createdAt": 1643292962966,
+          "value": {
+            "itemId": "KSA1_2",
+            "itemValue": "orange"
+          }
+        },
+        {
+          "createdAt": 1643293036334,
+          "value": {
+            "itemId": "KSA1_10",
+            "itemValue": "orange"
+          }
+        },
+        {
+          "createdAt": 1643293392985,
+          "value": {
+            "itemId": "KSA1_13",
+            "itemValue": "orange"
+          }
+        },
+        {
+          "createdAt": 1643293394373,
+          "value": {
+            "itemId": "KSA1_14",
+            "itemValue": "orange"
+          }
+        },
+        {
+          "createdAt": 1643293395253,
+          "value": {
+            "itemId": "KSA1_15",
+            "itemValue": "orange"
+          }
+        },
+        {
+          "createdAt": 1643293410201,
+          "value": {
+            "itemId": "KSA1_11",
+            "itemValue": "orange"
+          }
+        },
+        {
+          "createdAt": 1643293411644,
+          "value": {
+            "itemId": "KSA1_12",
+            "itemValue": "orange"
+          }
+        },
+        {
+          "createdAt": 1643293441980,
+          "value": {
+            "itemId": "KSA1_19",
+            "itemValue": "orange"
+          }
+        },
+        {
+          "createdAt": 1643293449464,
+          "value": {
+            "itemId": "KSA1_17",
+            "itemValue": "orange"
+          }
+        },
+        {
+          "createdAt": 1643293450480,
+          "value": {
+            "itemId": "KSA1_18",
+            "itemValue": "orange"
+          }
+        }
+      ],
+      "state": {}
+    }
+  }
+]

@@ -1,0 +1,19 @@
+content: <div class="b-vc-step__container b-vc-spacing">
+  
+<p>
+  <vim-image resource-index="1" resource-id="478283"></vim-image>
+</p>
+<vim-instruction>Расставь запятые
+</vim-instruction>  
+<h2>Версия 1</h2>
+<kids-sentence-analysis id="KSA1" auto-slots="true" options="comma" type="punctuation">
+  Это было моё обыкновенное утро<item value="comma"></item> ничем не отличающееся от остальных. Солнце заглянуло в окно<item value="comma"></item> и я почувствовала<item value="comma"></item> что скоро настанет момент пробуждения и что нежиться в кровати осталось недолго. Бодро подскочив под звук своего будильника<item value="comma"></item> я пошла умываться. Аккуратно причесав волосы и освежив румянец<item value="comma"></item> направилась к шкафу. Я открыла дверцу и в самой его глубине разглядела банду енотов<item value="comma"></item> маленьких и хитрых. Через несколько секунд они выпрыгнули из шкафа<item value="comma"></item> и быстро разбежались по комнатам<item value="comma"></item> и начали пакостить по всей квартире! Пока я отбирала у одного свой зефир<item value="comma"></item> другой крутил стрелки часов. Потянувшись за ним<item value="comma"></item> я упала на кровать... А когда проснулась по-настоящему<item value="comma"></item> обнаружила<item value="comma"></item> что стрелки уже показывают полдень. Приснится же такое!
+</kids-sentence-analysis>
+<p> </p>
+<h2>Версия 2</h2>
+<kids-sentence-analysis id="KSA2" auto-slots="true" options="comma" type="punctuation">
+  Утром я проснулась от будильника<item value="comma"></item> как обычно. Почистив зубы<item value="comma"></item> я села на кровать<item value="comma"></item> чтобы одеться<item value="comma"></item> и нечаянно уснула. Но сон был интересный!</kids-sentence-analysis>
+<h2>
+  <vim-text type="strong">Какая из версий была интереснее? Думаю, мы друг друга поняли. А чего не хватает им обеим? Верно! Хештега!</vim-text>
+</h2>
+</div>

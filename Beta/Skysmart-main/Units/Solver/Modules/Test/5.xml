@@ -1,0 +1,63 @@
+<div class="b-vc-step__container b-vc-spacing">
+  <p>
+    <vim-image resource-index="1" resource-id="476905"></vim-image>
+  </p>
+  <p>
+    <vim-image resource-index="1" resource-id="476906"></vim-image>
+  </p>
+  <vim-instruction>Отметь оранжевыми кружками слова-паразиты</vim-instruction>
+  <kids-sentence-analysis id="KSA1" type="color" parts="orange" options="orange">
+    <kids-sentence-analysis-group id="1">
+      <kids-sentence-analysis-item id="1">Давно</kids-sentence-analysis-item>
+      <kids-sentence-analysis-item id="1" value="orange">вот</kids-sentence-analysis-item>
+      <kids-sentence-analysis-item id="1">хочу</kids-sentence-analysis-item>
+      <kids-sentence-analysis-item id="1">рассказать</kids-sentence-analysis-item>
+      <kids-sentence-analysis-item id="1">тебе</kids-sentence-analysis-item>
+      <kids-sentence-analysis-item id="1">о</kids-sentence-analysis-item>
+      <kids-sentence-analysis-item id="1">своих</kids-sentence-analysis-item>
+      <kids-sentence-analysis-item id="1">питомцах.</kids-sentence-analysis-item>
+    </kids-sentence-analysis-group>
+    <kids-sentence-analysis-group id="1">
+      <kids-sentence-analysis-item id="1">Раньше,</kids-sentence-analysis-item>
+      <kids-sentence-analysis-item id="1" value="orange">так</kids-sentence-analysis-item>
+      <kids-sentence-analysis-item id="1" value="orange">сказать,</kids-sentence-analysis-item>
+      <kids-sentence-analysis-item id="1">руки</kids-sentence-analysis-item>
+      <kids-sentence-analysis-item id="1">не</kids-sentence-analysis-item>
+      <kids-sentence-analysis-item id="1">доходили.</kids-sentence-analysis-item>
+    </kids-sentence-analysis-group>
+    <kids-sentence-analysis-group id="1">
+      <kids-sentence-analysis-item id="1" value="orange">Это</kids-sentence-analysis-item>
+      <kids-sentence-analysis-item id="1" value="orange">самое, </kids-sentence-analysis-item>
+      <kids-sentence-analysis-item id="1">слушай!</kids-sentence-analysis-item>
+    </kids-sentence-analysis-group>
+    <kids-sentence-analysis-group id="1">
+      <kids-sentence-analysis-item id="1" value="orange">Короче,</kids-sentence-analysis-item>
+      <kids-sentence-analysis-item id="1">у</kids-sentence-analysis-item>
+      <kids-sentence-analysis-item id="1">нас</kids-sentence-analysis-item>
+      <kids-sentence-analysis-item id="1">дома </kids-sentence-analysis-item>
+      <kids-sentence-analysis-item id="1">два </kids-sentence-analysis-item>
+      <kids-sentence-analysis-item id="1">милых </kids-sentence-analysis-item>
+      <kids-sentence-analysis-item id="1">котика.</kids-sentence-analysis-item>
+    </kids-sentence-analysis-group>
+    <kids-sentence-analysis-group id="1">
+      <kids-sentence-analysis-item id="1">Один</kids-sentence-analysis-item>
+      <kids-sentence-analysis-item id="1">полностью </kids-sentence-analysis-item>
+      <kids-sentence-analysis-item id="1">белый,</kids-sentence-analysis-item>
+      <kids-sentence-analysis-item id="1">а</kids-sentence-analysis-item>
+      <kids-sentence-analysis-item id="1">другой</kids-sentence-analysis-item>
+      <kids-sentence-analysis-item id="1" value="orange">как </kids-sentence-analysis-item>
+      <kids-sentence-analysis-item id="1" value="orange">бы </kids-sentence-analysis-item>
+      <kids-sentence-analysis-item id="1">полосатый.</kids-sentence-analysis-item>
+    </kids-sentence-analysis-group>
+    <kids-sentence-analysis-group id="1">
+      <kids-sentence-analysis-item id="1">Вот</kids-sentence-analysis-item>
+      <kids-sentence-analysis-item id="1">такая</kids-sentence-analysis-item>
+      <kids-sentence-analysis-item id="1" value="orange">типа</kids-sentence-analysis-item>
+      <kids-sentence-analysis-item id="1">кошачья </kids-sentence-analysis-item>
+      <kids-sentence-analysis-item id="1">банда. </kids-sentence-analysis-item>
+    </kids-sentence-analysis-group>
+  </kids-sentence-analysis>
+  <h2>
+    <vim-text type="strong">Отлично! И не забудь написать к своему посту огненный заголовок! Листай дальше, подберём вместе!</vim-text>
+  </h2>
+</div>

@@ -1,0 +1,48 @@
+[
+  {
+    "contentGroupId": "9687708-9",
+    "key": "KSA1",
+    "meta": {
+      "device": {
+        "environment": "web",
+        "type": "desktop"
+      },
+      "showAnswerStatus": false,
+      "stepUuid": "c3ff0f07-8eb8-44d6-9bf2-bc9e1148c633"
+    },
+    "userId": 37557722,
+    "value": {
+      "answers": [
+        {
+          "createdAt": 1643287472127,
+          "value": {
+            "itemId": "KSA1_2",
+            "itemValue": "comma"
+          }
+        },
+        {
+          "createdAt": 1643287492753,
+          "value": {
+            "itemId": "KSA1_5",
+            "itemValue": "comma"
+          }
+        },
+        {
+          "createdAt": 1643287499223,
+          "value": {
+            "itemId": "KSA1_7",
+            "itemValue": "comma"
+          }
+        },
+        {
+          "createdAt": 1643287509347,
+          "value": {
+            "itemId": "KSA1_3",
+            "itemValue": "comma"
+          }
+        }
+      ],
+      "state": {}
+    }
+  }
+]

@@ -1,0 +1,22 @@
+content: <div class="b-vc-step__container b-vc-spacing">
+  
+<p>
+  <vim-image resource-index="1" resource-id="476908"></vim-image>
+</p>
+<vim-instruction>Расставь запятые в комментариях
+</vim-instruction>  
+<vim-blockquote importance="basic"><p>Решай внимательно! Сохраняй позитивный посыл и не позволяй хейту проникнуть в блог. </p>
+</vim-blockquote>
+<kids-sentence-analysis id="KSA1" auto-slots="true" options="comma" type="punctuation">Смотреть<item value="comma"></item> нельзя пролистывать!</kids-sentence-analysis>
+<kids-sentence-analysis id="KSA2" auto-slots="true" options="comma" type="punctuation">Вита<item value="comma"></item> спасибо большое за информацию.</kids-sentence-analysis>
+<kids-sentence-analysis id="KSA3" auto-slots="true" options="comma" type="punctuation">Этот пост всем читать<item value="comma"></item> не надо его пропускать.</kids-sentence-analysis>
+
+<kids-sentence-analysis id="KSA4" auto-slots="true" options="comma" type="punctuation">Вита откопала интересный<item value="comma"></item> важный и забавный факт.</kids-sentence-analysis>
+
+<kids-sentence-analysis id="KSA5" auto-slots="true" options="comma" type="punctuation">Всё так<item value="comma"></item> себе сохранила.</kids-sentence-analysis>
+<kids-sentence-analysis id="KSA6" auto-slots="true" options="comma" type="punctuation">Я хочу начать вести блог<item value="comma"></item> и ты меня вдохновляешь.</kids-sentence-analysis> 
+<kids-sentence-analysis id="KSA7" auto-slots="true" options="comma" type="punctuation">Пишешь посты<item value="comma"></item> ни о чём не жалеешь.</kids-sentence-analysis>
+<p>
+  <vim-image resource-index="1" resource-id="478279"></vim-image>
+</p>
+</div>

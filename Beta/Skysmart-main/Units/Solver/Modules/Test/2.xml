@@ -1,0 +1,64 @@
+<div class="b-vc-step__container b-vc-spacing">
+  <p>
+    <vim-image resource-index="1" resource-id="476862"></vim-image>
+  </p>
+  <p>
+    <vim-image resource-index="1" resource-id="480496"></vim-image>
+  </p>
+  <vim-instruction>Расставь ударения в словах, чтобы правильно записать голосовое сообщение</vim-instruction>
+  <kids-sentence-analysis id="KSA1" type="stress">
+    <group>
+      <item>М</item>
+      <item value="stress">у</item>
+      <item>к</item>
+      <item>а.</item>
+    </group>
+    <group>
+      <item>К</item>
+      <item>о</item>
+      <item>н</item>
+      <item>т</item>
+      <item value="stress">е</item>
+      <item>н</item>
+      <item>т.</item>
+    </group>
+    <group>
+      <item>С</item>
+      <item>о</item>
+      <item>ц</item>
+      <item>с</item>
+      <item>е</item>
+      <item>т</item>
+      <item value="stress">е</item>
+      <item>й.</item>
+    </group>
+    <group>
+      <item>К</item>
+      <item>р</item>
+      <item>а</item>
+      <item>с</item>
+      <item value="stress">и</item>
+      <item>в</item>
+      <item>е</item>
+      <item>е.</item>
+    </group>
+    <group>
+      <item>Н</item>
+      <item>а</item>
+      <item>ч</item>
+      <item>а</item>
+      <item>л</item>
+      <item value="stress">а.</item>
+    </group>
+    <group>
+      <item>Д</item>
+      <item>о</item>
+      <item>с</item>
+      <item value="stress">у</item>
+      <item>г.</item>
+    </group>
+  </kids-sentence-analysis>
+  <h2>
+    <vim-text type="strong">Но голосовые всем сразу не разошлёшь! Как написать классный пост о своих впечатлениях, чтобы его прочли все вокруг? Давай узнаем! </vim-text>
+  </h2>
+</div>

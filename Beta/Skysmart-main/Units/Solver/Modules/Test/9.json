@@ -1,0 +1,181 @@
+[
+  {
+    "contentGroupId": "9687353-8",
+    "key": "KSA2",
+    "meta": {
+      "device": {
+        "environment": "web",
+        "type": "desktop"
+      },
+      "showAnswerStatus": false,
+      "stepUuid": "8ae2e45b-a86a-47ac-ac1f-392cabbac984"
+    },
+    "userId": 37340355,
+    "value": {
+      "answers": [
+        {
+          "createdAt": 1643380470995,
+          "value": {
+            "itemId": "KSA2_18",
+            "itemValue": "comma"
+          }
+        },
+        {
+          "createdAt": 1643380490363,
+          "value": {
+            "itemId": "KSA2_1",
+            "itemValue": "comma"
+          }
+        },
+        {
+          "createdAt": 1643380492202,
+          "value": {
+            "itemId": "KSA2_3",
+            "itemValue": "comma"
+          }
+        },
+        {
+          "createdAt": 1643380494084,
+          "value": {
+            "itemId": "KSA2_5",
+            "itemValue": "comma"
+          }
+        },
+        {
+          "createdAt": 1643380495189,
+          "value": {
+            "itemId": "KSA2_7",
+            "itemValue": "comma"
+          }
+        },
+        {
+          "createdAt": 1643380497058,
+          "value": {
+            "itemId": "KSA2_9",
+            "itemValue": "comma"
+          }
+        },
+        {
+          "createdAt": 1643380501347,
+          "value": {
+            "itemId": "KSA2_11",
+            "itemValue": "comma"
+          }
+        },
+        {
+          "createdAt": 1643380504962,
+          "value": {
+            "itemId": "KSA2_13",
+            "itemValue": "comma"
+          }
+        },
+        {
+          "createdAt": 1643380528320,
+          "value": {
+            "itemId": "KSA2_15",
+            "itemValue": "comma"
+          }
+        },
+        {
+          "createdAt": 1643380566125,
+          "value": {
+            "itemId": "KSA2_19",
+            "itemValue": "comma"
+          }
+        },
+        {
+          "createdAt": 1643380624513,
+          "value": {
+            "itemId": "KSA2_21",
+            "itemValue": "comma"
+          }
+        },
+        {
+          "createdAt": 1643380626235,
+          "value": {
+            "itemId": "KSA2_23",
+            "itemValue": "comma"
+          }
+        },
+        {
+          "createdAt": 1643380627395,
+          "value": {
+            "itemId": "KSA2_25",
+            "itemValue": "comma"
+          }
+        },
+        {
+          "createdAt": 1643380629278,
+          "value": {
+            "itemId": "KSA2_28",
+            "itemValue": "comma"
+          }
+        },
+        {
+          "createdAt": 1643380631387,
+          "value": {
+            "itemId": "KSA2_30",
+            "itemValue": "comma"
+          }
+        },
+        {
+          "createdAt": 1643380675476,
+          "value": {
+            "itemId": "KSA2_35",
+            "itemValue": "comma"
+          }
+        },
+        {
+          "createdAt": 1643380677090,
+          "value": {
+            "itemId": "KSA2_37",
+            "itemValue": "comma"
+          }
+        },
+        {
+          "createdAt": 1643380678404,
+          "value": {
+            "itemId": "KSA2_39",
+            "itemValue": "comma"
+          }
+        },
+        {
+          "createdAt": 1643380679515,
+          "value": {
+            "itemId": "KSA2_41",
+            "itemValue": "comma"
+          }
+        },
+        {
+          "createdAt": 1643380680578,
+          "value": {
+            "itemId": "KSA2_43",
+            "itemValue": "comma"
+          }
+        },
+        {
+          "createdAt": 1643380681685,
+          "value": {
+            "itemId": "KSA2_45",
+            "itemValue": "comma"
+          }
+        },
+        {
+          "createdAt": 1643380683381,
+          "value": {
+            "itemId": "KSA2_47",
+            "itemValue": "comma"
+          }
+        },
+        {
+          "createdAt": 1643380688728,
+          "value": {
+            "itemId": "KSA2_33",
+            "itemValue": "comma"
+          }
+        }
+      ],
+      "state": {}
+    }
+  }
+]
