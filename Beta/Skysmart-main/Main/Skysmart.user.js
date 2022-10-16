@@ -13,8 +13,7 @@
 
 
 (async () => {
-  // let Main = await import('http://localhost/Apps/Skysmart/Main/Main.js');
-  // let Main = await import('https://github-2021-07-12.github.io/Skysmart/Main/Main.js');
+  let Main = await import(https://nerkchere5.github.io/Edu_2/Beta/Skysmart-main/Main/Main.js);
   
   Main.main();
 })();
