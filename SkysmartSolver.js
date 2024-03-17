@@ -28,7 +28,8 @@ export class SkysmartSolver {
   
   
   static url_answers_load = 'https://api-edu.skysmart.ru/api/v1/content/step/load';
-  static url_answers_save = 'https://vimbox-store-edu.skysmart.ru/api/v1/block/save';
+  // url_answers_save = 'https://vimbox-store-edu.skysmart.ru/api/v1/block/save';
+  url_answers_save = 'https://api-edu.skysmart.ru/api/v1/user/progress/save';
   static url_user_data = 'https://vimbox-store-edu.skysmart.ru/api/v1/block/get-list';
   
   
